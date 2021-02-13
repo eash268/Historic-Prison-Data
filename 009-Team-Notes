@@ -1,7 +1,17 @@
 EA - test
 
 Hi guys -- just to let you know I am linked as a collaborator now.  note: When writing to a text file on GitHub
-use line breaks or your whole comment will appear on one long line.  //Jim
+use line breaks or your whole comment will appear on one long line. 
+My comments:  Good observations here.  Fernanda and Eash, your interest in word frequencies over time makes a lot of sense.
+That is often one of the most revealing ways to analyze textual datasets.  In this case APS has only put 
+the first few decades into their datasets (1830-1860), so there is unlikely to be significant strong pattern.  
+I suspect that the increased/decreased frequencies you are observing are either caused by different moral
+instructors on the job or other kinds of noise, and don't really signify historical changel  For this and other
+reasons, one would really like to have more decades of data!  
+
+You score 9/10 on this assignment.
+
+Jim
 
 (EA) I thought app 1 was extremely interesting, the way they showed the word frequencies as used by the instructors
 and how the frequency of those words changed overtime. There were a lot of interesting trends to be seen with words
